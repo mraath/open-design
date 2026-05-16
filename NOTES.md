@@ -71,3 +71,10 @@ pnpm tools-dev status         # check what's running
 
 On startup the daemon scans PATH for agent CLIs. Claude Code (`claude`) will be auto-detected.
 No config needed — it just picks it up.
+
+## MORE
+
+Add:
+- scroll animations
+- responsive polish
+- micro-interactions
